@@ -21,7 +21,11 @@ You can discuss on the issue queue so we organize what the app could be.
 
 You can do the difference !
 
-https://ichef.bbci.co.uk/news/320/cpsprodpb/C4B0/production/_104625305_gettyimages-483705246.jpg
+### Reference of good charts about global warning 
+
+* By BBC [Climate change: Where we are in seven charts and what you can do to help](https://www.bbc.com/news/science-environment-46384067) 
+
+<img src="https://ichef.bbci.co.uk/news/320/cpsprodpb/C4B0/production/_104625305_gettyimages-483705246.jpg">
 
 
 
