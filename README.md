@@ -8,7 +8,7 @@ This project is still in its infancy, feel encouraged to join if you want to mix
 
 You can discuss on the issue queue so we organize what the app could be.
 
-<img src="https://media.senscritique.com/media/000017395731/960/War_Games.jpg">
+<img src="https://3.bp.blogspot.com/-ThPBhKytM6A/WnXIVZdtFCI/AAAAAAAAWBQ/V9bqvPFRvcEzsIJ_wArt9eiRdwXC-tfjwCLcBGAs/s1600/WarGames.jpg">
 
 You can do the difference !
 
