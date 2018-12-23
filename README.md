@@ -1,27 +1,11 @@
-# EarthSurvivalKit
+# Earth Survival Kit : Clear data visualisatiosn for global warning actions that matters.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+This project purpose is to teach global warning with data and make everyone understand both the problem and the actions that can be done to help save the earth!
 
-## Development server
+# Contribute 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This project is still in its infancy, feel encouraged to join if you want to mix your interest for data visualisation, data and angular with climate change fight. 
 
-## Code scaffolding
+You can discuss on the issue queue so we organize what the app could be.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
